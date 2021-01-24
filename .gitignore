@@ -1,0 +1,11 @@
+/.env
+/.idea
+/config
+/migrations
+/models
+/passport
+/public
+/routes
+/seeders
+/uploads
+/views
